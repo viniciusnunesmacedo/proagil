@@ -1,0 +1,1 @@
+## Exemplo de aplicação .net core + angular
